@@ -1,6 +1,6 @@
 package mypackage.test8;
 
-public abstract class Vehicle {
+public abstract class Vehicle{
     private int mileage;
     private String brand;
 
