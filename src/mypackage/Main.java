@@ -16,7 +16,11 @@ public class Main {
 
         bird.fly();
 
-        bird.getFlyspeed();
+        Bike bike = new Bike(10,"mersedes",10,"white","1",4);
+        System.out.println( bike.getModel());
+
+
+
 
 
 
